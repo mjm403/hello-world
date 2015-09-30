@@ -1,2 +1,2 @@
-Hi Everybody,
+Hi
 This is a secure file
